@@ -51,11 +51,9 @@ src/
 
 This app uses a MySQL database named `crushpredictordb`.
 
-
-1. Create the database:
-
+### 1. Create the database:
+```sql
 CREATE DATABASE crushpredictordb;
-
 2. Use the database:
 
 USE crushpredictordb;
