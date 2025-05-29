@@ -29,6 +29,7 @@ To build and run this project, you'll need:
 ---
 
 ## 🗂️ Folder Structure
+```
 src/
 ├── controller/
 │ └── CrushController.java # Handles button events and business logic
@@ -38,6 +39,7 @@ src/
 └── view/
 ├── CrushAppGUI.java # Main app interface
 └── LoginGUI.java # Login screen
+```
 
 ---
 
