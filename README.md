@@ -11,7 +11,7 @@ A fun desktop application that predicts romantic compatibility between you and y
 - 🎨 Clean and styled GUI with custom fonts, icons, and hover effects
 - ⚡ Event-driven logic and clear **MVC architecture**
  
-![login](https://github.com/user-attachments/assets/c79e765b-4f64-4827-8388-80b8be57b3f3)
+![login](https://github.com/user-attachments/assets/78540269-2ffd-4376-8b0c-bd6d6ab4535f)
 ![CrushPreiction](https://github.com/user-attachments/assets/b41f7051-031f-4f11-b99a-09f8a44f672c)
 
 ---
