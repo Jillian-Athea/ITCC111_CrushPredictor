@@ -10,6 +10,8 @@ A fun desktop application that predicts romantic compatibility between you and y
 - 🗄️ Saves predictions to a MySQL database
 - 🎨 Clean and styled GUI with custom fonts, icons, and hover effects
 - ⚡ Event-driven logic and clear **MVC architecture**
+![login](https://github.com/user-attachments/assets/c79e765b-4f64-4827-8388-80b8be57b3f3)
+![CrushPreiction](https://github.com/user-attachments/assets/b41f7051-031f-4f11-b99a-09f8a44f672c)
 
 ---
 
