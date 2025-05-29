@@ -78,9 +78,9 @@ CREATE TABLE predictions (
 4. Insert at least one test user:
 
 INSERT INTO users (username, password) VALUES ('testuser', 'password123');
-
-
+```
 ---
+
 ## CHANGE DIRECTORY
 **Navigate to the src folder of your project using the cd (change directory) command.
 ex: cd "C:\JILLIAN BOC\S C H O O L\ITCC 11.1 - EVENT DRIVEN PROGRAMMING\CrushPredictor\src"
@@ -95,3 +95,5 @@ ex: javac -cp ".;..\lib\mysql-connector-j-9.3.0.jar" view/LoginGUI.java view/Cru
 ## RUN
 **After compiling, use the java command to run the app starting from the LoginGUI class.
 ex: java -cp ".;..\lib\mysql-connector-j-9.3.0.jar" view.LoginGUI
+
+
